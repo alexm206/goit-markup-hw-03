@@ -62,10 +62,6 @@ body {
     list-style: none;
 }
 
-img {
-    display: block;
-}
-
 .container {
     width: 1230px;
     margin: 0 auto;
